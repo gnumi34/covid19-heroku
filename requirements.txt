@@ -1,0 +1,7 @@
+django==2.1.15
+djangorestframework
+twilio
+psycopg2
+drf-extensions
+drfpasswordless
+python-decouple
